@@ -19,11 +19,9 @@
         </div>
         <div class="tag-list-all" v-if="searchModel === ''">
           <tag-list :recipes="recipes" tag="dessert" title="Desserts" />
-          <tag-list title="Desserts" tag="dessert" :recipes="recipes" />
           <tag-list title="Classics" tag="classics" :recipes="recipes" />
           <tag-list title="Appetizers" tag="appetizer" :recipes="recipes" />
           <tag-list title="Norwegian" tag="norwegian" :recipes="recipes" />
-          <tag-list title="Breakfast" tag="breakfast" :recipes="recipes" />
         </div>
       </div>
    </div>

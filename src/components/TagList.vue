@@ -1,5 +1,5 @@
 <template>
-  <div class="tag-list" v-if="recipeList.length > 0">
+  <div class="tag-list" v-if="hasRecipes">
     <h2 v-if="title === 'Search'">Results for &ldquo;{{$props.search}}&rdquo;</h2>
     <h2 v-if="title !== 'Search'">{{title}}</h2>
     <ul v-if="recipeList.length > 0">
@@ -20,6 +20,9 @@ export default {
     }
   },
   computed: {
+      hasRecipes() {
+        return this.recipeList && this.recipeList.length !== 0;
+      },
       recipeList () {
         return this.recipes.map(recipe => {
 

@@ -4,7 +4,7 @@
       <div class="navbar">
         <logo />
         <div class="add-recipe-button-wrapper">
-          <router-link class="add-recipe-button" :to="{name: 'add-recipe'}">&#43; Add recipe</router-link>
+          <!-- <router-link class="add-recipe-button" :to="{name: 'add-recipe'}">&#43; Add recipe</router-link> -->
         </div>
       </div>
     </div>
