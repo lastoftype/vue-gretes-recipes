@@ -1,0 +1,953 @@
+{
+  "recipes": [
+  {
+    "_id":
+    {
+      "$oid": "5a45adb431d2b7bd7a340b39"
+    },
+    "title": "Grete's Sandkaker",
+    "description": "The recipe says it's from Inger Saltonstall, Newport, RI, 1972.",
+    "ingredients": [
+    {
+      "quantity": "0.75",
+      "unit": "cup",
+      "ingredient": "sugar",
+      "id": "BkWgRGCSJGG",
+      "_id":
+      {
+        "$oid": "5a46fe03f95d3b6e3867c793"
+      }
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "ingredient": "butter",
+      "id": "ByzeAzAS1zf",
+      "_id":
+      {
+        "$oid": "5a46fe03f95d3b6e3867c794"
+      }
+    },
+    {
+      "quantity": "1",
+      "unit": "null",
+      "ingredient": "egg",
+      "id": "BJQg0MAS1zf",
+      "_id":
+      {
+        "$oid": "5a46fe03f95d3b6e3867c795"
+      }
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "ingredient": "finely chopped almonds",
+      "id": "B1NgRzCr1fz",
+      "_id":
+      {
+        "$oid": "5a46fe03f95d3b6e3867c796"
+      }
+    },
+    {
+      "quantity": "1",
+      "unit": "teaspoon",
+      "ingredient": "vanilla",
+      "id": "rJreAGCHJzM",
+      "_id":
+      {
+        "$oid": "5a46fe03f95d3b6e3867c797"
+      }
+    },
+    {
+      "quantity": "2.5",
+      "unit": "cup",
+      "ingredient": "all purpose flour",
+      "id": "BJUgAz0Hkzf",
+      "_id":
+      {
+        "$oid": "5a46fe03f95d3b6e3867c798"
+      }
+    }],
+    "servings": "Many",
+    "time": "",
+    "tags": ["cookies", "dessert", "sweet", "norwegian", "yummy"],
+    "steps": [
+    {
+      "text": "Cream sugar and butter.",
+      "id": "B1EQAHkGG",
+      "_id":
+      {
+        "$oid": "5a46fe03f95d3b6e3867c799"
+      }
+    },
+    {
+      "text": "Add egg and dry ingredients",
+      "id": "SJxV7CSyGG",
+      "_id":
+      {
+        "$oid": "5a46fe03f95d3b6e3867c79a"
+      }
+    },
+    {
+      "text": "Mold into sandkaker forms. No buttering of forms needed; There is enough in the dough. The dough should be thin.",
+      "id": "rkZV7Cr1fG",
+      "_id":
+      {
+        "$oid": "5a46fe03f95d3b6e3867c79b"
+      }
+    },
+    {
+      "text": "Bake in 325-degree oven until gold. (Middle rack for 12 minutes should work.)",
+      "id": "S1GVmArJzM",
+      "_id":
+      {
+        "$oid": "5a46fe03f95d3b6e3867c79c"
+      }
+    },
+    {
+      "text": "Right out of the oven, turn the very hot forms over on the counter or cutting board to remove the cookie. You may have to almost throw them onto the counter or cutting board",
+      "id": "r1QEQABJGM",
+      "_id":
+      {
+        "$oid": "5a46fe03f95d3b6e3867c79d"
+      }
+    }],
+    "slug": "gretes-sandkaker"
+  }
+  ,{
+    "_id":
+    {
+      "$oid": "5a45adb431d2b7bd7a340b3a"
+    },
+    "id": "Hy5n3H1Gz",
+    "title": "Crab Dip",
+    "description": "Cully Kronzer, circa 1985, modified by Grete \n\n 'A personal favorite at holidays and dinner parties. I have vivid memories of eating this dip!' - Matt",
+    "servings": "8",
+    "time": "",
+    "slug": "crab-dip",
+    "ingredients": [
+    {
+      "quantity": "0.75",
+      "unit": "cup",
+      "ingredient": "finely diced cooking onions",
+      "id": "S1djyaSkfz"
+    },
+    {
+      "quantity": "1",
+      "unit": null,
+      "ingredient": "(plus more more to coat the casserole dish) Tbsp butter .",
+      "id": "SJti1ar1MM"
+    },
+    {
+      "quantity": "4",
+      "unit": "can",
+      "ingredient": "(6oz) 'Fancy White' Lump Crab Meat. Do not use 'artificial crab.' Use the best canned crab meat available (or fresh if you have it).",
+      "id": "SkcsJprJMM"
+    },
+    {
+      "quantity": "2",
+      "unit": "package",
+      "ingredient": "(8oz) original cream cheese, softened to room temperature",
+      "id": "B1isJTSyMf"
+    },
+    {
+      "quantity": "12",
+      "unit": "ounce",
+      "ingredient": "(NOT low-fat or no-fat) sour cream",
+      "id": "SyhokpSyMz"
+    },
+    {
+      "quantity": "2",
+      "unit": null,
+      "ingredient": "heaping tsp dijon mustard",
+      "id": "SJ6sy6SyMG"
+    },
+    {
+      "quantity": "2",
+      "unit": null,
+      "ingredient": "Tbsp worcestershire sauce",
+      "id": "Bk0oJpSkGz"
+    },
+    {
+      "quantity": "1",
+      "unit": null,
+      "ingredient": "(plus more to garnish the the top of the mixture) generous cup finely grated extra sharp cheddar cheese",
+      "id": "rJJeoypBkzf"
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": "Fritos Scoops",
+      "id": "SJxxjkpB1zz"
+    }],
+    "steps": [
+    {
+      "text": "Pre-heat oven to 375°F.",
+      "id": "r1PAnrJMG"
+    },
+    {
+      "text": "Sauté onions in butter until translucent. Let them cool.",
+      "id": "rklDCnHkzG"
+    },
+    {
+      "text": "Rinse crab meat in ice-cold water. Drain thoroughly.",
+      "id": "S1ZPA2BJMG"
+    },
+    {
+      "text": "Mix all ingredients in a large mixing bowl until thoroughly mixed and fairly smooth.",
+      "id": "HJMw0hHyfz"
+    },
+    {
+      "text": "Butter a shallow (2” to 2½”) casserole. Spoon in the mixture. Garnish the top with additional finely grated extra sharp cheddar cheese, covering the dip mixture. The dip can be stored in a refrigerator overnight before baking (it actually tastes better that way).",
+      "id": "ryXvR2rkff"
+    },
+    {
+      "text": "Bake, uncovered, for 35 to 40 minutes.",
+      "id": "B1ED03BkMM"
+    },
+    {
+      "text": "After baking, and once cooled, the dip can be transported and then reheated. Do NOT reheat in a microwave. Let dip come to room temperature first, and then reheat in a 350°F oven for 20 minutes or so.",
+      "id": "HyHPAnB1MM"
+    },
+    {
+      "text": "Serve with Fritos Scoops.",
+      "id": "BJUvAhSyfM"
+    }],
+    "tags": ["crab", "dip", "appetizer", "seafood"],
+    "isValidJson": true
+  }
+  ,{
+    "_id":
+    {
+      "$oid": "5a45adb431d2b7bd7a340b3b"
+    },
+    "title": "Breaded Chicken Cutlets",
+    "description": "Serve with lemon wedges, rice, green peas and a salad. I love this one.",
+    "ingredients": [
+    {
+      "quantity": "2",
+      "unit": "null",
+      "ingredient": "Skinless Chicken Breasts, cut in half and pounded flat",
+      "_id":
+      {
+        "$oid": "5a4705adcbf7dd6fd8d2cbd5"
+      }
+    },
+    {
+      "quantity": "1-2",
+      "unit": "tablespoon",
+      "ingredient": "Flour with salt and freshly ground pepper to taste",
+      "_id":
+      {
+        "$oid": "5a4705adcbf7dd6fd8d2cbd6"
+      }
+    },
+    {
+      "quantity": "1",
+      "unit": "null",
+      "ingredient": "Egg whipped with 2 Tablespoons Milk",
+      "_id":
+      {
+        "$oid": "5a4705adcbf7dd6fd8d2cbd7"
+      }
+    },
+    {
+      "quantity": "null",
+      "unit": "null",
+      "ingredient": "A little chopped Fresh Parsley or dried Parsley Flakes",
+      "_id":
+      {
+        "$oid": "5a4705adcbf7dd6fd8d2cbd8"
+      }
+    },
+    {
+      "quantity": "null",
+      "unit": "null",
+      "ingredient": "Ritz Cracker crumbs",
+      "_id":
+      {
+        "$oid": "5a4705adcbf7dd6fd8d2cbd9"
+      }
+    },
+    {
+      "quantity": "null",
+      "unit": "null",
+      "ingredient": "Olive Oil",
+      "_id":
+      {
+        "$oid": "5a4705adcbf7dd6fd8d2cbda"
+      }
+    },
+    {
+      "quantity": "null",
+      "unit": "null",
+      "ingredient": "Fresh Lemons",
+      "_id":
+      {
+        "$oid": "5a4705adcbf7dd6fd8d2cbdb"
+      }
+    },
+    {
+      "quantity": "2",
+      "unit": "cup",
+      "ingredient": "oil",
+      "_id":
+      {
+        "$oid": "5a4705adcbf7dd6fd8d2cbdc"
+      }
+    }],
+    "servings": "",
+    "time": "",
+    "tags": ["by grete", "chicken", "entree", "dinner"],
+    "steps": [
+    {
+      "text": "Between waxed paper, pound chicken pieces flat with mallet.  Place flat cutlets on waxed paper in single layer. (These can be made ahead, covered, and stored in refrigerator.)",
+      "id": "HyHhsS1zM",
+      "_id":
+      {
+        "$oid": "5a4705adcbf7dd6fd8d2cbdd"
+      }
+    },
+    {
+      "text": "Mix flour, salt and pepper with fingers on large, flat plate.",
+      "id": "BylB3jSJGM",
+      "_id":
+      {
+        "$oid": "5a4705adcbf7dd6fd8d2cbde"
+      }
+    },
+    {
+      "text": "In bowl, briefly whip egg and milk with fork",
+      "id": "ry-H2oH1zG",
+      "_id":
+      {
+        "$oid": "5a4705adcbf7dd6fd8d2cbdf"
+      }
+    },
+    {
+      "text": "Finely crumble Ritz crackers and transfer to another flat plate",
+      "id": "SyMHniByGf",
+      "_id":
+      {
+        "$oid": "5a4705adcbf7dd6fd8d2cbe0"
+      }
+    },
+    {
+      "text": "Dredge cutlets in flour mixture, shaking off excess, dip completely in egg mixture, and dredge in breadcrumbs, covering cutlets all over.",
+      "id": "HJ7HniS1fM",
+      "_id":
+      {
+        "$oid": "5a4705adcbf7dd6fd8d2cbe1"
+      }
+    },
+    {
+      "text": "Heat olive oil, 1 - 2 tablespoons, in frying pan over medium to medium high heat. (Additional oil might be needed). Fry cutlets, 2 - 3 minutes per side, taking care not to burn them.  (Best to start out with medium heat).",
+      "id": "HyErnjrkfG",
+      "_id":
+      {
+        "$oid": "5a4705adcbf7dd6fd8d2cbe2"
+      }
+    },
+    {
+      "text": "Keep warm in oven at 175°F while completing the meal.",
+      "id": "B1HrhiSJMG",
+      "_id":
+      {
+        "$oid": "5a4705adcbf7dd6fd8d2cbe3"
+      }
+    },
+    {
+      "text": " ",
+      "id": "HJLHhoByMf",
+      "_id":
+      {
+        "$oid": "5a4705adcbf7dd6fd8d2cbe4"
+      }
+    },
+    {
+      "text": "Not so good if made early and reheated because the crumbed covering becomes soft",
+      "id": "SkPr3oBkzM",
+      "_id":
+      {
+        "$oid": "5a4705adcbf7dd6fd8d2cbe5"
+      }
+    }],
+    "slug": "breaded-chicken-cutlets"
+  }
+  ,{
+    "_id":
+    {
+      "$oid": "5a45adb431d2b7bd7a340b3c"
+    },
+    "title": "Crème de Menthe Mousse",
+    "description": "'Serve in six Demitasse cups.' - Grete",
+    "ingredients": [
+    {
+      "quantity": "4",
+      "unit": "ounce",
+      "ingredient": "semi-sweet chocolate pieces",
+      "id": "B1lgGLJGM",
+      "_id":
+      {
+        "$oid": "5a46fdc1f95d3b6e3867c770"
+      }
+    },
+    {
+      "quantity": "0.5",
+      "unit": "pint",
+      "ingredient": "heavy whipping cream",
+      "id": "SyxgeMUyMf",
+      "_id":
+      {
+        "$oid": "5a46fdc1f95d3b6e3867c771"
+      }
+    },
+    {
+      "quantity": "2",
+      "unit": "teaspoon",
+      "ingredient": "sugar",
+      "id": "BkWgxzL1GG",
+      "_id":
+      {
+        "$oid": "5a46fdc1f95d3b6e3867c772"
+      }
+    },
+    {
+      "quantity": "1",
+      "unit": "null",
+      "ingredient": "(green or preferably white) generous tablespoon Crème de Menthe",
+      "id": "BkfllM8JzG",
+      "_id":
+      {
+        "$oid": "5a46fdc1f95d3b6e3867c773"
+      }
+    },
+    {
+      "quantity": "6",
+      "unit": "null",
+      "ingredient": "small Demitasse cups",
+      "id": "ry7lxzIJzf",
+      "_id":
+      {
+        "$oid": "5a46fdc1f95d3b6e3867c774"
+      }
+    },
+    {
+      "quantity": "null",
+      "unit": "null",
+      "ingredient": "Pepperidge Farm Crème-Filled Mint Chocolate Pirouettes",
+      "id": "rkVeezLJGf",
+      "_id":
+      {
+        "$oid": "5a46fdc1f95d3b6e3867c775"
+      }
+    }],
+    "servings": "6",
+    "time": "",
+    "tags": ["dessert", "chocolate", "sweet", "grete's recipe", "amazing"],
+    "steps": [
+    {
+      "text": "Melt chocolate in double boiler. Let cool.",
+      "id": "SJqgGLyfG",
+      "_id":
+      {
+        "$oid": "5a46fdc1f95d3b6e3867c776"
+      }
+    },
+    {
+      "text": "Whip cream and sugar until almost stiff.",
+      "id": "Hye5lGL1fM",
+      "_id":
+      {
+        "$oid": "5a46fdc1f95d3b6e3867c777"
+      }
+    },
+    {
+      "text": "Add cooled chocolate, and whip until blended.",
+      "id": "SJb5gMI1GG",
+      "_id":
+      {
+        "$oid": "5a46fdc1f95d3b6e3867c778"
+      }
+    },
+    {
+      "text": "Add Crème de Menthe, and whip until blended and “stiff”.",
+      "id": "HkGcxfL1GM",
+      "_id":
+      {
+        "$oid": "5a46fdc1f95d3b6e3867c779"
+      }
+    },
+    {
+      "text": "Spoon mixture into Demitasses.",
+      "id": "SkmqeMIkMM",
+      "_id":
+      {
+        "$oid": "5a46fdc1f95d3b6e3867c77a"
+      }
+    },
+    {
+      "text": "Cover with plastic wrap and refrigerate for at least six hours.",
+      "id": "rJ4qxGUkMG",
+      "_id":
+      {
+        "$oid": "5a46fdc1f95d3b6e3867c77b"
+      }
+    },
+    {
+      "text": "Serve with two pirouettes inserted into the Demitasses.",
+      "id": "H1r5xzUyMG",
+      "_id":
+      {
+        "$oid": "5a46fdc1f95d3b6e3867c77c"
+      }
+    }],
+    "slug": "creme-de-menthe-mousse"
+  }
+  ,{
+    "_id":
+    {
+      "$oid": "5a45adb431d2b7bd7a340b3d"
+    },
+    "id": "Sk8n8Ukfz",
+    "title": "Cochifrito (Lamb Stew with Lemon and Garlic)",
+    "description": "'From Andalucia Travel Guide and Erik (2009)'",
+    "servings": "6 servings",
+    "time": "",
+    "slug": "cochifrito-lamb-stew-with-lemon-and-garlic",
+    "ingredients": [
+    {
+      "quantity": "1.75",
+      "unit": null,
+      "ingredient": "to 2 pounds lean boneless lamb, cut into bite-sized pieces",
+      "id": "SJUzKIkzz"
+    },
+    {
+      "quantity": "2",
+      "unit": "tablespoon",
+      "ingredient": "olive oil",
+      "id": "HJeLMY8yMz"
+    },
+    {
+      "quantity": "4",
+      "unit": null,
+      "ingredient": "garlic cloves, crushed",
+      "id": "H1ZIzYI1fM"
+    },
+    {
+      "quantity": "1",
+      "unit": null,
+      "ingredient": "onion, finely chopped",
+      "id": "S1GIGFL1MG"
+    },
+    {
+      "quantity": "1",
+      "unit": "tablespoon",
+      "ingredient": "(pimenton dulce) mild paprika",
+      "id": "HkXLGKUkGM"
+    },
+    {
+      "quantity": "3",
+      "unit": "tablespoon",
+      "ingredient": "lemon juice",
+      "id": "ry48GtIJMz"
+    },
+    {
+      "quantity": "4",
+      "unit": "tablespoon",
+      "ingredient": "finely chopped flat leaf parsley, plus extra to garnish",
+      "id": "B1HLMtIkzG"
+    },
+    {
+      "quantity": "0.5",
+      "unit": "cup",
+      "ingredient": "vegetable or chicken stock",
+      "id": "SJ8LfYL1fz"
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": "salt and pepper",
+      "id": "SJPIMtUyMM"
+    },
+    {
+      "quantity": null,
+      "unit": null,
+      "ingredient": "finely grated lemon rind, to garnish",
+      "id": "ByuIMYLkMf"
+    }],
+    "steps": [
+    {
+      "text": "Season the lamb to taste with salt and pepper. Heat the oil in a large, non-stick frying pan over a medium heat. Add the lamb and cook, turning frequently, for 6-8 minutes until browned all over. ",
+      "id": "SyN7YU1Gf"
+    },
+    {
+      "text": "Transfer to a heavy-based flameproof casserole and add the garlic, onions, paprika, lemon juice, parsley and stock. Cover tightly and simmer gently over a low heat for 1½ hours or until the lamb is tender. ",
+      "id": "HJg4XYIyGf"
+    },
+    {
+      "text": "Serve immediately, garnished with finely chopped parsley and grated lemon rind. ",
+      "id": "HyZV7YI1fG"
+    }],
+    "tags": ["spanish", "lamb", "stew", "erik", "classics"],
+    "isValidJson": true
+  }
+  ,{
+    "_id":
+    {
+      "$oid": "5a45adb431d2b7bd7a340b3e"
+    },
+    "id": "HkNoN8JMG",
+    "title": "Betty's Pumpkin Bars",
+    "description": "Step by step from Betty's kitchen",
+    "servings": "12+",
+    "time": "",
+    "slug": "bettys-pumpkin-bars",
+    "ingredients": [
+    {
+      "quantity": "4",
+      "unit": null,
+      "ingredient": "eggs (Take them out of the fridge while the oven is preheating)",
+      "id": "S1YsVU1GG"
+    },
+    {
+      "quantity": "1.6",
+      "unit": "cup",
+      "ingredient": "of sugar",
+      "id": "ryxFiEI1MG"
+    },
+    {
+      "quantity": "15",
+      "unit": "ounce",
+      "ingredient": "(Libby's 100% Pure Pumpkin) can of pumpkin",
+      "id": "SyZKjV8JMM"
+    },
+    {
+      "quantity": "1",
+      "unit": "cup",
+      "ingredient": "oil",
+      "id": "HkfKiE8JGf"
+    },
+    {
+      "quantity": "2",
+      "unit": "cup",
+      "ingredient": "flour",
+      "id": "rkmKjE8yzf"
+    },
+    {
+      "quantity": "2",
+      "unit": "teaspoon",
+      "ingredient": "ground cinnamon",
+      "id": "S1NFiEU1MG"
+    },
+    {
+      "quantity": "2",
+      "unit": "teaspoon",
+      "ingredient": "baking powder",
+      "id": "SkSYo4UkMG"
+    },
+    {
+      "quantity": "1",
+      "unit": "teaspoon",
+      "ingredient": "salt",
+      "id": "SkIYiE8Jzz"
+    },
+    {
+      "quantity": "1",
+      "unit": "teaspoon",
+      "ingredient": "baking soda",
+      "id": "B1vFiVI1MG"
+    },
+    {
+      "quantity": "4",
+      "unit": "ounce",
+      "ingredient": "softened cream cheese - Half an 8oz package. Add more if you like it to taste more cheesy.",
+      "id": "HkOtiVLyfM"
+    },
+    {
+      "quantity": "3-2",
+      "unit": "cup",
+      "ingredient": "confectioners' sugar. It depends on the consistency that you like.",
+      "id": "H1tFjEIyzM"
+    },
+    {
+      "quantity": "1",
+      "unit": "teaspoon",
+      "ingredient": "vanilla extract",
+      "id": "Sy9YiVIJzM"
+    }],
+    "steps": [
+    {
+      "text": "Pumpkin bars",
+      "id": "rJH3VI1Mf"
+    },
+    {
+      "text": "Preheat the oven to 350 degrees.",
+      "id": "HJxHnELyzz"
+    },
+    {
+      "text": "In mixing bowl, beat eggs until frothy.",
+      "id": "SJbB34LJzM"
+    },
+    {
+      "text": "Beat in sugar and beat for 2 minutes.",
+      "id": "Syfrn4LJGM"
+    },
+    {
+      "text": "In a separate bowl, stir together flour, cinnamon, baking powder, salt, and baking soda.",
+      "id": "HJQr2EIJzz"
+    },
+    {
+      "text": "Add dry mixture into the pumpkin mixture and mix at low speed. ",
+      "id": "B1NS3E8JMM"
+    },
+    {
+      "text": "Do not overbeat. Just enough to mix the dry ingredients into the pumpkin mixture.",
+      "id": "rJrrn4IkGG"
+    },
+    {
+      "text": "Pour batter into an un-greased 15x10x1 inch pan.",
+      "id": "rkISn4IJfM"
+    },
+    {
+      "text": "Bake for 25 to 30 minutes.",
+      "id": "ByvHnN8yGf"
+    },
+    {
+      "text": "Cool on rack.",
+      "id": "rJ_r3N8kGM"
+    },
+    {
+      "text": "Frost with cream cheese frosting when completely cooled.",
+      "id": "rkKH3VIyfG"
+    },
+    {
+      "text": "Cream cheese frosting",
+      "id": "By9Sh4Ikzz"
+    },
+    {
+      "text": "Mix softened cream cheese and vanilla with an electric mixer. Add the sugar a little at a time until it is the consistency that you want. Spread on cooled pumpkin bars. Place in the refrigerator for a while before cutting.",
+      "id": "SkoSn4Lyzf"
+    }],
+    "tags": ["dessert", "pumpkin", "betty's recipes"],
+    "isValidJson": true
+  }
+  ,{
+    "_id":
+    {
+      "$oid": "5a45adb431d2b7bd7a340b3f"
+    },
+    "title": "Chicken Cutlets In Red Wine Sauce",
+    "description": "'The dish can easily be doubled - I have done that for company.' - Grete.",
+    "ingredients": [
+    {
+      "quantity": "6",
+      "unit": "null",
+      "ingredient": "(about 1.5 lbs) Thin chicken cutlets",
+      "id": "SJNIe8kfz",
+      "_id":
+      {
+        "$oid": "5a46fea3f95d3b6e3867c7c5"
+      }
+    },
+    {
+      "quantity": "1",
+      "unit": "null",
+      "ingredient": "(not chopped) Large onion, sliced",
+      "id": "rJgEIgLyGz",
+      "_id":
+      {
+        "$oid": "5a46fea3f95d3b6e3867c7c6"
+      }
+    },
+    {
+      "quantity": "1",
+      "unit": "null",
+      "ingredient": "Cup Sliced mushrooms",
+      "id": "Hy-VLg8kMM",
+      "_id":
+      {
+        "$oid": "5a46fea3f95d3b6e3867c7c7"
+      }
+    },
+    {
+      "quantity": "2",
+      "unit": "null",
+      "ingredient": "(minced) Large garlic cloves",
+      "id": "BJf4IxIyfz",
+      "_id":
+      {
+        "$oid": "5a46fea3f95d3b6e3867c7c8"
+      }
+    },
+    {
+      "quantity": "2",
+      "unit": "cup",
+      "ingredient": "Sliced, canned Italian plum tomatoes",
+      "id": "rkQNLlUyGG",
+      "_id":
+      {
+        "$oid": "5a46fea3f95d3b6e3867c7c9"
+      }
+    },
+    {
+      "quantity": "2",
+      "unit": "null",
+      "ingredient": "Teaspoons Olive oil",
+      "id": "Hy4EIlIkzf",
+      "_id":
+      {
+        "$oid": "5a46fea3f95d3b6e3867c7ca"
+      }
+    },
+    {
+      "quantity": "0.5",
+      "unit": "null",
+      "ingredient": "(such as Cabernet Sauvignon) Cup Dry red wine",
+      "id": "HkHNLgU1ff",
+      "_id":
+      {
+        "$oid": "5a46fea3f95d3b6e3867c7cb"
+      }
+    },
+    {
+      "quantity": "0.5",
+      "unit": "null",
+      "ingredient": "Teaspoon Dried Oregano",
+      "id": "Hy8N8lUJfz",
+      "_id":
+      {
+        "$oid": "5a46fea3f95d3b6e3867c7cc"
+      }
+    },
+    {
+      "quantity": "1",
+      "unit": "null",
+      "ingredient": "Teaspoon Dried Basil",
+      "id": "SJDN8g8kGf",
+      "_id":
+      {
+        "$oid": "5a46fea3f95d3b6e3867c7cd"
+      }
+    },
+    {
+      "quantity": "null",
+      "unit": "null",
+      "ingredient": "Non-stick cooking spray",
+      "id": "BJu4IeIyzz",
+      "_id":
+      {
+        "$oid": "5a46fea3f95d3b6e3867c7ce"
+      }
+    }],
+    "servings": "Many",
+    "time": "",
+    "tags": ["chicken", "entrees", "dinner", "grete's recipe", "parties", "epic"],
+    "steps": [
+    {
+      "text": "Preparation",
+      "id": "r1UWNWxLkzG",
+      "_id":
+      {
+        "$oid": "5a46fea3f95d3b6e3867c7cf"
+      }
+    },
+    {
+      "text": "Chicken cutlets are made from the de-boned, skin-less chicken breasts. To make six (6) cutlets or so, you need three to four chicken breasts. Cut the breasts in halves. Arrange the halves, one at a time, between layers of waxed or parchment paper and pound them with a mallet to make them thin; each slice should be around 1 to 0.5 cm thick. ",
+      "id": "rJvWE-xIkMz",
+      "_id":
+      {
+        "$oid": "5a46fea3f95d3b6e3867c7d0"
+      }
+    },
+    {
+      "text": "Prepared chicken cutlets can be kept for one day in the refrigerator, safely wrapped in parchment, or preferably waxed paper.",
+      "id": "r1d-VbxLyGM",
+      "_id":
+      {
+        "$oid": "5a46fea3f95d3b6e3867c7d1"
+      }
+    },
+    {
+      "text": "Cooking",
+      "id": "r1KW4ZeL1zM",
+      "_id":
+      {
+        "$oid": "5a46fea3f95d3b6e3867c7d2"
+      }
+    },
+    {
+      "text": "Coat chicken cutlets on both sides with non-stick cooking spray. If that is not available in Norway, then use olive oil; (just lightly brush the olive oil on the cutlets and do not use butter or margarine in the skillet).",
+      "id": "Bkqb4bgLJff",
+      "_id":
+      {
+        "$oid": "5a46fea3f95d3b6e3867c7d3"
+      }
+    },
+    {
+      "text": "Place chicken cutlets in heated skillet, using medium high heat, and sauté the cutlets for a maximum of 2 minutes per side. Watch carefully to make sure that the cutlets do not burn.",
+      "id": "rkjbE-x8yGG",
+      "_id":
+      {
+        "$oid": "5a46fea3f95d3b6e3867c7d4"
+      }
+    },
+    {
+      "text": "Once cooked, remove chicken cutlets from skillet and keep warm. (I keep the oven on at a very low temperature and keep the cutlets there while I finish the rest if we are eating right away; otherwise, the chicken cutlets are not kept warm but are kept in a bowl, sometimes in the refrigerator, until Final Assembly).",
+      "id": "HknbNWg8kzM",
+      "_id":
+      {
+        "$oid": "5a46fea3f95d3b6e3867c7d5"
+      }
+    },
+    {
+      "text": "Lower heat to medium, add oil to skillet and then add onion slices. Sauté about 3-4 minutes, stirring often and adjusting heat so onions do not brown.",
+      "id": "SkpZNZxI1GM",
+      "_id":
+      {
+        "$oid": "5a46fea3f95d3b6e3867c7d6"
+      }
+    },
+    {
+      "text": "Add garlic and mushrooms and continue to sauté for 5 minutes.",
+      "id": "ByAbNbxIJMz",
+      "_id":
+      {
+        "$oid": "5a46fea3f95d3b6e3867c7d7"
+      }
+    },
+    {
+      "text": "Add tomatoes and wine, oregano and basil. Slowly, cook mixture for 10 more minutes. This mixture can be kept on the stove for two hours or more, or in the refrigerator for longer, if needed. Once reheated, it should be done carefully so as not to disrupt the consistency of the various ingredients.",
+      "id": "Bkkz4beI1MM",
+      "_id":
+      {
+        "$oid": "5a46fea3f95d3b6e3867c7d8"
+      }
+    },
+    {
+      "text": "Serving",
+      "id": "H1eMVbeI1GM",
+      "_id":
+      {
+        "$oid": "5a46fea3f95d3b6e3867c7d9"
+      }
+    },
+    {
+      "text": "Serve this chicken dish with parsleyed rice, or preferably, pasta (Linguini), a dish of fresh, steamed green beans almondine (fresh green beans with sliced almonds and a little butter), and a garden salad.",
+      "id": "H1bGN-gUyzz",
+      "_id":
+      {
+        "$oid": "5a46fea3f95d3b6e3867c7da"
+      }
+    },
+    {
+      "text": "The dish can easily be doubled - I have done that for company.",
+      "id": "SyfG4-gLyfG",
+      "_id":
+      {
+        "$oid": "5a46fea3f95d3b6e3867c7db"
+      }
+    }],
+    "slug": "chicken-cutlets-in-red-wine-sauce"
+  }]
+}

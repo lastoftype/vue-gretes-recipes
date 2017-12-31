@@ -1,0 +1,7 @@
+{
+  "watch": true,
+  "port": 5000,
+  "routes": "routes.json",
+  "read-only": true,
+  "id": "slug"
+}

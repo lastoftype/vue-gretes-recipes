@@ -1,5 +1,5 @@
 <template>
-  <div class="tag-list">
+  <div class="tag-list" v-if="recipeList.length > 0">
     <h2 v-if="title === 'Search'">Results for &ldquo;{{$props.search}}&rdquo;</h2>
     <h2 v-if="title !== 'Search'">{{title}}</h2>
     <ul v-if="recipeList.length > 0">
