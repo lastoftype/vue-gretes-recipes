@@ -27,7 +27,7 @@ yarn server
 
 Then run project separately
 ``` bash
-# use recipes.json to serve dummy api responses
+# run app on localhost:8080
 yarn dev
 ```
 
