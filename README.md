@@ -2,6 +2,8 @@
 
 A Vue.js CLI project that shows off recipes. Adapted from a React project I am working on.
 
+![Screenshot of Recipes](https://user-images.githubusercontent.com/3628831/44248800-b2c45380-a1ba-11e8-974d-9b304f95437e.png)
+
 ## Build Setup
 
 ``` bash
